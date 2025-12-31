@@ -6,19 +6,19 @@
 
 ---
 
-Welcome to the official repository for **A Pattern Hunter's Guide to Comparative Anatomy**. This collection of interactive Jupyter notebooks is designed to explore the functional morphology and evolutionary patterns of biological systems through simulation and data analysis.
-
-
+Welcome to the official repository for **A Pattern Hunter's Guide to Comparative Anatomy**. This collection of interactive Jupyter notebooks is designed to explore functional morphology and evolutionary patterns through simulation and data analysis.
 
 ## 🚀 How to Use
 
 ### Option 1: Google Colab (Recommended)
-Each notebook below includes an **"Open in Colab"** badge. Clicking a badge will launch the notebook directly in the cloud, allowing you to run simulations without any local setup.
+Each notebook below includes an **"Open in Colab"** badge. Clicking a badge will launch the notebook directly in the cloud. No local setup is required.
 
 ### Option 2: Local Installation
-To run these notebooks on your own machine:
-1. Clone the repository: `git clone https://github.com/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy.git`
-2. Install dependencies: `pip install numpy pandas matplotlib scipy`
+To run these notebooks on your machine:
+1. Clone the repository: 
+   `git clone https://github.com/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy.git`
+2. Install dependencies: 
+   `pip install numpy pandas matplotlib scipy`
 3. Launch Jupyter: `jupyter lab`
 
 ---
@@ -32,7 +32,7 @@ To run these notebooks on your own machine:
 | **2.2** Statistical Pattern Detector | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/2.2_Statistical_Pattern_Detector.ipynb) |
 | **2.3** Morphometric Analyzer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/2.3_Morphometric_Analyzer.ipynb) |
 
-### 3. Integumentary Systems (Skin & Surface)
+### 3. Integumentary Systems
 | Topic | Link |
 | :--- | :--- |
 | **3.1** Integumentary Evolution Explorer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/3.1_Integumentary_Evolution_Explorer.ipynb) |
@@ -40,7 +40,6 @@ To run these notebooks on your own machine:
 | **3.3** Coloration Strategy Analyzer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/3.3_Coloration_Strategy_Analyzer.ipynb) |
 
 ### 4. Skeletal & Movement Systems
-
 | Topic | Link |
 | :--- | :--- |
 | **4.1** Cartilage vs Bone Materials | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/4.1_Cartilage_vs_Bone_Materials_Analyzer.ipynb) |
@@ -54,10 +53,9 @@ To run these notebooks on your own machine:
 | **5.1** Tooth Morphology & Diet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/5.1_Tooth_Morphology_Diet_Analyzer.ipynb) |
 | **5.2** Gut Length & Efficiency | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/5.2_Gut_Length_Diet_Efficiency_Analyzer.ipynb) |
 | **5.3** Liver Metabolism Adaptation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/5.3_Liver_Metabolism_Adaptation_Analyzer.ipynb) |
-| **5.4** Dietary Biotech Analyzer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/5.4_Dietary_Specialization_Biotechnology_Analyzer.ipynb) |
+| **5.4** Dietary Specialization Biotech | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/5.4_Dietary_Specialization_Biotechnology_Analyzer.ipynb) |
 
 ### 6. Respiratory Systems
-
 | Topic | Link |
 | :--- | :--- |
 | **6.1** Fick's Law & Gas Exchange | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/6.1_Ficks_Law_Gas_Exchange.ipynb) |
@@ -70,7 +68,7 @@ To run these notebooks on your own machine:
 | **7.1** Aortic Arch Transformer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/7.1_Aortic_Arch_Transformer.ipynb) |
 | **7.2** Heart Chamber Evolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/7.2_Heart_Chamber_Evolution_Simulator.ipynb) |
 | **7.3** Blood Flow & Pressure | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/7.3_Blood_Flow_Pressure_Calculator.ipynb) |
-| **7.4** Thermoregulation Simulator | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/7.4_Thermoregulation_Blood_Flow_Simulator.ipynb) |
+| **7.4** Thermoregulation & Blood Flow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/7.4_Thermoregulation_Blood_Flow_Simulator.ipynb) |
 
 ### 8. Urogenital Systems
 | Topic | Link |
@@ -80,7 +78,6 @@ To run these notebooks on your own machine:
 | **8.3** Nitrogen Waste Comparator | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/8.3_Nitrogen_Waste_Comparator.ipynb) |
 
 ### 9. Nervous & Sensory Systems
-
 | Topic | Link |
 | :--- | :--- |
 | **9.1** Neural Speed | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/9.1_Neural_Speed.ipynb) |
@@ -113,3 +110,16 @@ To run these notebooks on your own machine:
 | **12.3** Bio-Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.3_Bio_Engineering.ipynb) |
 | **12.4** Conservation Tech | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.4_Conservation_Tech.ipynb) |
 | **12.5** Future Biotech | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.5_Future_Biotech.ipynb) |
+
+---
+
+## 🛠 Troubleshooting Common Issues
+
+### 1. "Could Not Find File" Error
+If Google Colab says it cannot find a `.ipynb` file:
+* Verify the file is uploaded to the **main branch** of your GitHub repository.
+* Ensure the filename on GitHub exactly matches the name in the tables above (case-sensitive).
+
+### 2. "Failed to Fetch" or JavaScript Error
+This usually indicates a momentary connection loss between your browser and Google's servers.
+* **Fix:** Refresh your browser ($F5$) or open the link in an **Incognito Window** to bypass browser extensions that might be interfering.
