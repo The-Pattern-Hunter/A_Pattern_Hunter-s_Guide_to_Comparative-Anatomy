@@ -14,7 +14,6 @@ Welcome to the official repository for **A Pattern Hunter's Guide to Comparative
 Each notebook below includes an **"Open in Colab"** badge. Clicking a badge will launch the notebook directly in the cloud. No local setup is required.
 
 ### Option 2: Local Installation
-To run these notebooks on your machine:
 1. Clone the repository: 
    `git clone https://github.com/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy.git`
 2. Install dependencies: 
@@ -106,7 +105,7 @@ To run these notebooks on your machine:
 | Topic | Link |
 | :--- | :--- |
 | **12.1** Biomimetic Design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.1_Biomimetic_Design.ipynb) |
-| **12.2** Medical Device Design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.2_Medical_Device.ipynb) |
+| **12.2** Medical Device | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.2_Medical_Device.ipynb) |
 | **12.3** Bio-Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.3_Bio_Engineering.ipynb) |
 | **12.4** Conservation Tech | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.4_Conservation_Tech.ipynb) |
 | **12.5** Future Biotech | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/A_Pattern_Hunter-s_Guide_to_Comparative-Anatomy/blob/main/12.5_Future_Biotech.ipynb) |
@@ -117,9 +116,10 @@ To run these notebooks on your machine:
 
 ### 1. "Could Not Find File" Error
 If Google Colab says it cannot find a `.ipynb` file:
-* Verify the file is uploaded to the **main branch** of your GitHub repository.
-* Ensure the filename on GitHub exactly matches the name in the tables above (case-sensitive).
+* **Check for Hidden Spaces:** Ensure there is no space at the end of the filename on GitHub.
+* **Verify Extension:** Ensure the file is not named `.ipynb.ipynb`.
+* **Branch Check:** These links point to the `main` branch. Ensure your GitHub files are pushed to `main`.
 
-### 2. "Failed to Fetch" or JavaScript Error
-This usually indicates a momentary connection loss between your browser and Google's servers.
-* **Fix:** Refresh your browser ($F5$) or open the link in an **Incognito Window** to bypass browser extensions that might be interfering.
+### 2. "Failed to Fetch" (TypeError)
+This is a browser connection issue.
+* **Fix:** Refresh the page ($F5$) or use an **Incognito Window** to bypass browser extensions.
