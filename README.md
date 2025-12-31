@@ -2,7 +2,7 @@
 
 **Authors:** Dr. Alok Patel  
 **Institution:** Department of Zoology, Kuchinda College  
-**Series:** A Pattern Hunter's Guide to Comparative Anatomy  
+**Book:** A Pattern Hunter's Guide to Comparative Anatomy-in development stage  
 
 ---
 
