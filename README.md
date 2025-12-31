@@ -114,8 +114,5 @@ Each notebook below includes an **"Open in Colab"** badge. Clicking a badge will
 
 ## 🛠 Troubleshooting
 
-### 1. "Could Not Find File" Error
-Ensure your notebooks are uploaded into the `/notebooks/` folder in your GitHub repository.
-
-### 2. "Failed to Fetch" (TypeError)
+### 1. "Failed to Fetch" (TypeError)
 This is a browser connection issue. Refresh the page ($F5$) or use an **Incognito Window**.
